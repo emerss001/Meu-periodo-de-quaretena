@@ -1,0 +1,51 @@
+body {font-family: Arial;
+background-color: #F9F9F9; }
+
+
+#textopricipal { font-size: 35px;
+	             padding-left: 30px;
+				position: absolute;
+				} 
+
+
+.quadro { border: 1px solid #bab6b6	;
+		  margin-left:60px;
+		  margin-top:70px;
+		  width:600px;
+		  height:500px;
+		  border-radius: 10px;
+		  background-color: #ffffff;
+		 }
+
+
+#segtexto{ padding-left: 30px;
+	       padding-top: 300px;
+
+		 }
+
+
+#quadro2{  margin-left:720px;
+		  margin-top:-500px;
+		  width:600px;
+		  height:200px;
+		  border-radius: 10px;
+		  background-color: #000000;
+		}
+
+#jogos{ padding-left: 50px;
+	    top: : 600px;
+
+
+
+}		
+
+
+
+#quadro3{ margin-left:720px;
+		  margin-top:60px;
+		  width:600px;
+		  height:200px;
+		  border-radius: 10px;
+		  background-color: #000000;
+
+}

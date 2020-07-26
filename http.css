@@ -1,0 +1,73 @@
+body {font-family: Arial;
+background-color: #F9F9F9  }
+
+
+
+
+#pritexto{
+	font-size: 25px;
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
+		}
+
+
+
+#titulo { 
+		font-size: 50px;
+		}
+
+
+
+#ttljogos {
+		  font-size: 35px;
+		  }
+
+
+
+#gta {
+		font-size: 25px;
+    	text-align: left;
+    	padding-left: 420px;
+   	 	top: 320px;	
+   	 	position: absolute;	
+   	}
+
+#sub{
+	font-size: 25px;
+  padding-left: 40px;
+
+}
+
+.imgs{
+	padding-left: 40px;
+}
+
+
+#textomc3{
+			font-size: 25px;
+    	text-align: left;
+    	padding-left: 420px;
+   	 	top: 680px;	
+   	 	position: absolute;
+}
+
+
+#textomc4{
+		font-size: 25px;
+    	text-align: left;
+    	padding-left: 420px;
+   	 	top: 1035px;	
+   	 	position: absolute;
+
+}
+
+
+#textogts2{
+		font-size: 25px;
+    	text-align: left;
+    	padding-left: 420px;
+   	 	top: 1430px;	
+   	 	position: absolute;
+
+}
